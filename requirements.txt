@@ -1,0 +1,6 @@
+porter2stemmer
+nameparser
+ner
+ner-d
+nerd
+scikitcrf-ner
