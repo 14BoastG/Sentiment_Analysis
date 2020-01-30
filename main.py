@@ -1,6 +1,7 @@
-# import/donwload relevant packages
-from clean import Cleaner
+# import/download relevant packages
+from solution.clean import Cleaner
 
 # passes text to Cleaner
 text = input("Raw text: ")
-Cleaner(text)
+clean_text = Cleaner(text)
+print(clean_text)
